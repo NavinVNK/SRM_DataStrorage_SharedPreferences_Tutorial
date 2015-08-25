@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/SRM_DataStrorage_SharedPreferences_Tutorial/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SRM_DataStrorage_SharedPreferences_Tutorial</string>
+    <string name="hello">Hello World, SharedPreferencesActivity!</string>
+</resources>
